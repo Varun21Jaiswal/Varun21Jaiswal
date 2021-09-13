@@ -2,12 +2,13 @@
 
 <h3  align="center">A passionate boy to become a coder</h3>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=334"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 <p align="left">-🔭 I’m currently a school student<br>
                  -🌱 I’m currently learning Software Development<br>
                  -⚡ Fun fact: I think I am Tomato</p>
-
+                 
+<img align="right" alt="Coder GIF" height=200 width=250 src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=334"/>
 
 ### Languages and Tools:
 
@@ -26,6 +27,8 @@
 [<img align="left" height="32" width="32" src="https://img.icons8.com/color/50/000000/codepen.png" />][codepen]
 
 
+</br>
+</br>
 </br>
 </br>
 <hr>
