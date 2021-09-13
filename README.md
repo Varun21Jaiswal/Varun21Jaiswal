@@ -38,7 +38,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Varun21Jaiswal&&show_icons=true&title_color=#0000ff&icon_color=bb2acf&text_color=daf7dc&bg_color=#ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Varun21Jaiswal&&show_icons=true&title_color=274db8&icon_color=000000&text_color=6b2ce8&bg_color=ffffff" >
 
 [youtube]: https://www.youtube.com/channel/UCsu4r-FvJkhpQmlJeet_k1w
 [instagram]: https://www.instagram.com/varun_jai_21/
