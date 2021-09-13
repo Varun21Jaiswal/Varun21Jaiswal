@@ -1,3 +1,5 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_316/79731568097599.5b50bca477735.jpg)
+
 <h1 align="center">Hi👋, I'm Varun Jaiswal</h1>
 
 <h3  align="center">A passionate boy to become a coder</h3>
@@ -20,6 +22,7 @@
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/blender-3d.png"/>
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/>
 </br>
+</br>
 
 ### Connect with me:
 [<img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>][youtube]
@@ -40,3 +43,8 @@
 [youtube]: https://www.youtube.com/channel/UCsu4r-FvJkhpQmlJeet_k1w
 [instagram]: https://www.instagram.com/varun_jai_21/
 [codepen]: https://codepen.io/VarunJCoder
+
+<hr>
+
+<h1 align="center"> Give Your </h1>
+<img height="80" width="100%" src="https://flirtingwithadrenalinedotcom.files.wordpress.com/2019/02/feedback-2.gif">
