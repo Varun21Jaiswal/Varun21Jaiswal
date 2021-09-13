@@ -21,3 +21,5 @@
 <a href="https://codepen.io/varunjcoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varunjcoder" height="30" width="40" /></a>
 <a href="https://instagram.com/varun_jai_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="varun_jai_21" height="30" width="40" /></a>
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varun21Jaiswal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
