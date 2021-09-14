@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_316/79731568097599.5b50bca477735.jpg)
+![MasterHead](https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/banner.jpg)
 
 <h1 align="center">Hi <img width="50" height="50" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/Wave.gif">, I'm Varun Jaiswal</h1>
 
