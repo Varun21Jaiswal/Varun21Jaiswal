@@ -4,13 +4,13 @@
 
 <h3  align="center">A passionate boy to become a coder</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/coding.gif">
 
 <p align="left">-🔭 I’m currently a school student<br>
                  -🌱 I’m currently learning Software Development<br>
                  -⚡ Fun fact: I think I am Tomato</p>
                  
-<img align="right" alt="Coder GIF" height=200 width=250 src="https://logimp.files.wordpress.com/2019/01/viral-p-1.gif?w=334"/>
+<img align="right" alt="Coder GIF" height=200 width=250 src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/coder.gif"/>
 
 ### Languages and Tools:
 
@@ -47,4 +47,4 @@
 <hr>
 
 <h1 align="center"> Give Your </h1>
-<img height="80" width="100%" src="https://flirtingwithadrenalinedotcom.files.wordpress.com/2019/02/feedback-2.gif">
+<img height="80" width="100%" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/feedback.gif">
