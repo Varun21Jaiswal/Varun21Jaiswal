@@ -2,11 +2,9 @@
 
 <h1 align="center">Hi <img width="50" height="50" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/Wave.gif">, I'm Varun Jaiswal</h1>
 
-<h3  align="center">A passionate boy to become a coder</h3>
+<h3  align="center">Coder</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/coding.gif">
-                 
-<img align="right" alt="Coder GIF" height=200 width=250 src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/coder.gif"/>
 
 ### Languages and Tools:
 
