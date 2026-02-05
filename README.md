@@ -4,8 +4,6 @@
 
 <h3  align="center">Coder</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/coding.gif">
-
 ### Languages and Tools:
 
 <img align="left" height="32" width="32" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
@@ -29,10 +27,6 @@
 </br>
 </br>
 <hr>
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varun21Jaiswal&&show_icons=true&title_color=274db8&icon_color=000000&text_color=6b2ce8&bg_color=ffffff" >
 
 [youtube]: https://www.youtube.com/channel/UCsu4r-FvJkhpQmlJeet_k1w
 [instagram]: https://www.instagram.com/varun_jai_21/
