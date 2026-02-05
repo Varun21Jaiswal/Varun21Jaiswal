@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/banner.jpg)
 
-<h1 align="center">Hi <img width="50" height="50" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/Wave.gif">, I'm Varun Jaiswal</h1>
+<h1 align="center">Hi, I'm Varun Jaiswal</h1>
 
 <h3  align="center">Coder</h3>
 
