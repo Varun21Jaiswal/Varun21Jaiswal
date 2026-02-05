@@ -5,10 +5,6 @@
 <h3  align="center">A passionate boy to become a coder</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/coding.gif">
-
-<p align="left">-🔭 I’m currently a school student<br>
-                 -🌱 I’m currently learning Software Development<br>
-                 -⚡ Fun fact: I think I am Tomato</p>
                  
 <img align="right" alt="Coder GIF" height=200 width=250 src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/coder.gif"/>
 
