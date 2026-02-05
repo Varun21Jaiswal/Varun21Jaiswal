@@ -24,8 +24,7 @@
 
 </br>
 </br>
-</br>
-</br>
+
 <hr>
 
 [youtube]: https://www.youtube.com/channel/UCsu4r-FvJkhpQmlJeet_k1w
@@ -33,6 +32,3 @@
 [codepen]: https://codepen.io/VarunJCoder
 
 <hr>
-
-<h1 align="center"> Give Your </h1>
-<img height="80" width="100%" src="https://github.com/Varun21Jaiswal/Varun21Jaiswal/blob/main/feedback.gif">
